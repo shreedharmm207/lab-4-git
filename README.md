@@ -1,1 +1,5 @@
-# lab-4-git
+#include<stdio.h>
+int main()
+{
+  printf("Hello world");
+}
